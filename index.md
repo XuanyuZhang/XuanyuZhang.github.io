@@ -10,9 +10,6 @@ Before that, I received B.E. degree in Software Engineering at NPU in 2024, duri
 
 My research lies at the intersection of **3D Vision** and **Low-Level Vision**. My research interests include novel view synthesis, image super-resolution, object detection, etc. 
 
-
-//<strong style="color:#e74d3c; font-weight:600">I expect to be on the job market in 2025. I would appreciate a ping if you see a position I might fit. </strong>
-
 {% include_relative _includes/news.md %}
 
 {% include_relative _includes/publications.md %}
