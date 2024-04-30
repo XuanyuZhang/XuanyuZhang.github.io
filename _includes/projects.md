@@ -2,44 +2,65 @@
 
 <h4>
   <table style="float:left;width:100%;margin:0 0 0"><tr>
-    <td>3D Dynamic Perception using Neuromorphic Vision Sensor</td>
-    <td style="float:right">Jan. 2021 -- Dec. 2022</td>
+    <td>Intelligent image processing algorithm software</td>
+    <td style="float:right">Oct. 2022 -- Mar. 2023</td>
   </tr></table>
 </h4> 
 
 <ul style="margin:0 0 0;">
   <li> <strong>Student Leader</strong>, supervised by mentor </li>
-  <li>Introducing event cameras to address the challenge of 3D dynamic perception in real scenarios with high dynamics. </li>
+  <li>I am mainly responsible for detecting and tracking targets in videos captured by drones, as well as converting and deploying model formats.</li>
+  <li>The main difficulty of my work is to achieve high-precision real-time detection on the end side when both the video background (moving camera) and the detected object are moving simultaneously. </li>
+</ul>
+
+<h4>
+  <table style="float:left;width:100%;margin:0 0 0"><tr>
+    <td>Research on Intelligent Restoration Methods for Garbage Images in Digital Devices</td>
+    <td style="float:right">2021 -- 2022</td>
+  </tr></table>
+</h4> 
+
+<ul style="margin:0 0 0;">
+  <li> <strong>Major contributor：</strong> Design and implement relevant image denoising networks. </li>
+  <li>Related achievements are published via papers. </li>
   <li>This project is sponsored by <a href="https://en.zhejianglab.com/">Zhejiang Lab</a> Open Research Funding. </li>
 </ul>
 
+
 <h4>
   <table style="float:left;width:100%;margin:0 0 0"><tr>
-    <td>SAR-Optical Image Matching</td>
-    <td style="float:right">Oct. 2020 -- Jun. 2021</td>
+    <td>Xinjiang Rong Sheng Rui Cheng Intelligent Technology Co., Ltd</td>
+    <td style="float:right">Jun. 2018 -- Oct. 2018</td>
   </tr></table>
 </h4> 
 
 <ul style="margin:0 0 0;">
-  <li> <strong>Major contributor</strong> to won the championship in a Chinese AI Challenge. </li>
-  <li>The task is to match two heterogeneous source images to obtain the position of a small optical image block in a large synthetic aperture radar (SAR) image. </li>
-  <li>Our proposed network uses an attention mechanism and fast large kernel Fourier convolution and achieves <strong>first place in terms of speed and accuracy</strong>. </li>
+  <li> <strong>Web Engineer & Java Engineer</strong> </li>
+  <li>Participate in the establishment of the company as a startup member with my teacher. My main responsibility is to develop and design user pages for websites and Android apps.  </li>
+  <li>Some projects from school, government, and other companys. </li>
+  <li>Far away from the current research interest and will not be further introduced.</li>
 </ul>
-
 
 <h4>
   <table style="float:left;width:100%;margin:0 0 0"><tr>
-    <td>Undergraduate Robotics Maker Team at NPU</td>
-    <td style="float:right">Sept. 2016 -- Jun. 2019</td>
+    <td>Chengdu Shangcheng Technology Co., Ltd. (Summer School)</td>
+    <td style="float:right">July. 2019 -- Aug. 2019</td>
   </tr></table>
 </h4> 
 
 <ul style="margin:0 0 0;">
-  <li> <strong>Team Leader</strong> since Sept. 2017. </li>
-  <li>Our team have won many awards in several robot competition in China. My responsibility is to deploy visual recognition algorithms for robots, including the following applications:  </li>
-  <li>Enemy identification (up to 200~FPS) and automatic attacking for the multi robot fierce confrontation competition, <a href="https://www.robomaster.com/en-US/robo/overview">RoboMaster</a>. </li>
-  <li>Identifying danger signs and trapped people for environment perception and mapping for urban search and rescue robot competition, <a href="https://www.robocup.org/leagues/10">RoboCupRescue</a> <a href="http://crc.drct-caa.org.cn/index.php/race/lists?catid=13">China Open</a>. <a href="https://news.cgtn.com/news/3355444f7a454464776c6d636a4e6e62684a4856/share_p.html">CGTN Interview</a> </li>
-  <li>Indoor positioning and navigation of UAVs using visual markers or gestures. Partial <a href="https://github.com/danqu130/Hand_Tello">Code</a> </li>
-  <li>Lead team members in collaboration and make project plans to achieve all goals. </li>
+  <li> <strong>Full Stack Developer</strong> </li>
+  <li>Far away from the current research interest and will not be further introduced.</li>
 </ul>
 
+<h4>
+  <table style="float:left;width:100%;margin:0 0 0"><tr>
+    <td>Software School Innovation Team</td>
+    <td style="float:right">Oct. 2017 -- Jun. 2018</td>
+  </tr></table>
+</h4> 
+
+<ul style="margin:0 0 0;">
+  <li> <strong>Web Engineer</strong> </li>
+  <li>Far away from the current research interest and will not be further introduced.</li>
+</ul>
