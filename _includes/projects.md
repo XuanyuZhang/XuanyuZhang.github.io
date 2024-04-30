@@ -8,7 +8,6 @@
 </h4> 
 
 <ul style="margin:0 0 0;">
-  <li> <strong>Student Leader</strong>, supervised by mentor </li>
   <li>I am mainly responsible for detecting and tracking targets in videos captured by drones, as well as converting and deploying model formats.</li>
   <li>The main difficulty of my work is to achieve high-precision real-time detection on the end side when both the video background (moving camera) and the detected object are moving simultaneously. </li>
 </ul>
