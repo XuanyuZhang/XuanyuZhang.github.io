@@ -23,7 +23,6 @@
 <ul style="margin:0 0 0;">
   <li> <strong>Major contributor：</strong> Design and implement relevant image denoising networks. </li>
   <li>Related achievements are published via papers. </li>
-  <li>This project is sponsored by <a href="https://en.zhejianglab.com/">Zhejiang Lab</a> Open Research Funding. </li>
 </ul>
 
 
