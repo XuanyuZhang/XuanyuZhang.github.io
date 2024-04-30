@@ -1,32 +1,32 @@
 # Basic Information 
-name_en: Zhexiong Wan
-name_cn: 万哲雄
+name_en: Xuanyu Zhang
+name_cn: 张璇昱
 position: Ph.D. Candidate
 affiliation: Northwestern Polytechnical University, Xi'an, China
 affiliation_link: https://en.nwpu.edu.cn/
-email: wanzhexiong@mail.nwpu.edu.cn 
+email: xuanyuzhang@mail.nwpu.edu.cn 
 # email: zhexiongwan@gmail.com
-email_text: wanzhexiong (at) mail.nwpu.edu.cn
-wechat_id: wanzhexiong
+email_text: xuanyuzhang (at) mail.nwpu.edu.cn
+wechat_id: xuanyuzhang
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: zhexiong wan, zhexiongwan, wanzhexiong, wan zhexiong, 万哲雄
-description: Personal academic homepage of Mr. Zhexiong Wan.
-canonical: https://danquxunhuan.cn
+keywords: xuanyu zhang, xuanyuzhang, zhangxuanyu, zhang xuanyu, 张璇昱
+description: Personal academic homepage of Xuanyu Zhang.
+canonical: https://xuanyuzhang.github.io/
 
 # Links 
-homepage: https://danquxunhuan.cn
+homepage: https://xuanyuzhang.github.io/
 # cv_link: assets/files/curriculum_vitae.pdf
-google_scholar: https://scholar.google.com/citations?user=rgjSWLkAAAAJ
-orcid: https://orcid.org/0000-0002-4494-6178
-github_link: https://github.com/danqu130
+google_scholar: https://scholar.google.com.hk/citations?user=3yCSJewAAAAJ&hl=zh-CN&oi=ao
+orcid: https://orcid.org/my-orcid?orcid=0000-0002-9284-4336
+github_link: https://github.com/XuanyuZhang
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
-favicon: ./assets/img/tianyi.jpg
-favicon_dark: ./assets/img/tianyi.jpg
+avatar: ./assets/img/XuanyuZhang.png
+favicon: ./assets/img/XuanyuZhang.jpg
+favicon_dark: ./assets/img/XuanyuZhang.jpg
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
@@ -35,7 +35,7 @@ enable_footnote: true
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
-google_analytics: G-DQ8R69CTWN
+google_analytics: G-XL2F7N6S3K
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
