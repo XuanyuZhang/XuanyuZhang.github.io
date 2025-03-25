@@ -36,7 +36,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10309208/">Knowledge Distillation With Fast CNN for License Plate Detection</a></div>
     <div class="author">Chunwei Tian, <strong>Xuanyu Zhang</strong>, Xu Liang, Bo Li, Yougang Sun, Shichao Zhang</div>
-    <div class="periodical"><em>IEEE Transactions on Intelligent Vehicles <strong>(IEEE TIV)</strong>, 2023.</em></div>
+    <div class="periodical"><em>IEEE Transactions on Intelligent Vehicles <strong>(IEEE TIV)(中科院一区)</strong>, 2023.</em></div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/abstract/document/10309208" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/XuanyuZhang/KDNet" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -57,7 +57,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cit2.12297">Image super‐resolution via dynamic network</a></div>
     <div class="author">Chunwei Tian, <strong>Xuanyu Zhang</strong>, Qi Zhang, Mingming Yang, Zhaojie Ju</div>
-    <div class="periodical"><em>CAAI Transactions on Intelligence Technology <strong>(CAAI TIT)</strong>, 2023.</em></div>
+    <div class="periodical"><em>CAAI Transactions on Intelligence Technology <strong>(CAAI TIT)(2025中科院一区top)</strong>, 2023.</em></div>
     <div class="links">
       <a href="https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/cit2.12297" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/danqu130/RPEFlow" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
